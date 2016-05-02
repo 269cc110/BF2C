@@ -136,7 +136,7 @@ _L1:		while((read = in.read()) != -1)
 					}
 					else
 					{
-						System.err.println("aborting");
+						System.out.println("aborting");
 						return;
 					}
 				}
